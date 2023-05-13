@@ -6,7 +6,7 @@
 - 👋 I am Yasser Abu Amro
 - 💻 Computer Engineer student  
 - 💻 I am Junior full stack developer
-- 🌱 I am currently focusing on learning Node.js and React
+- 🌱 I am currently focusing on learning Node.js and React.js
 
 <br />
 
