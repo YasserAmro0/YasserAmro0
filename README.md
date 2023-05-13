@@ -25,6 +25,7 @@
 <p align = "center">
 
  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=YasserAmro0&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "YasserAmro0's Languages/Frameworks" width = 400 />
+  
 </p>
 
 
@@ -38,7 +39,8 @@
 <h2 align="center">Let's Connect 😎</h2>
 <p align="center">
   <a href = "mailto:yasseramr7715729@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
-
+<a href="https://www.instagram.com/yasser_abo_amro0/" target="_blank"><img height = 30 src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="yasser_abo_amro0" /></a>
+  <a href="https://wa.me/message/" target="_blank"><img height = 30 src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="karamzomlut1" /></a>
 </p>
 
 
