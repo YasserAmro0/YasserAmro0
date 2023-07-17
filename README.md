@@ -5,7 +5,8 @@
 
 - 👋 I am Yasser Abu Amro
 - 💻 Computer Engineer student  
-- 💻 I am Junior full stack developer
+- 💻 I am full stack developer
+- 👨‍ <a href='https://gazaskygeeks.com/coders-career-accelerator-course/'>Career Accelerator Program</a>- Code Academy Graduate
 - 🌱 I am currently focusing on learning Node.js and React.js
 
 <br />
