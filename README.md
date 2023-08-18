@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 ![api's](https://img.shields.io/badge/-apis-3A3A3A?style=for-the-badge&logo=connect&logoColor=white)
 <img src="https://img.shields.io/badge/-postman-F26634?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/-vercl-%236B48AF?style=for-the-badge&logo=vercl&logoColor=white" />
+<img src="https://img.shields.io/badge/-vercel-%236B48AF?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/-Figma-%2379D384?style=for-the-badge&logo=figma&logoColor=white" />
 
 <h2 align="center">Quick Overview 📈</h2>
