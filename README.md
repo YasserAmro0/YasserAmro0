@@ -4,7 +4,7 @@
 <h1>About Me 📌</h1>
 
 - 👋 I am Yasser Abu Amro
-- 💻 I am Full-stack developer
+- 💻 I am a Full-stack developer
 - 💻 Computer Engineer student at <a href='https://www.iugaza.edu.ps/'>Islamic University of Gaza</a> 
 - 👨‍ <a href='https://gazaskygeeks.com/coders-career-accelerator-course/'>Career Accelerator Program</a>- Code Academy Graduate
 - 🌱 Open to learn new technologies ...
