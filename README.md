@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
-
+<h1 align = "center">
+    Hi , I'm Yasser Abu Amro  👋
+</h1>
 
 <h1>About Me 📌</h1>
 
@@ -70,5 +71,4 @@
 </p>
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
