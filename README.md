@@ -9,6 +9,7 @@
 - 💻 Computer Engineer student at <a href='https://www.iugaza.edu.ps/'>Islamic University of Gaza</a> 
 - 👨‍ Code Academy Graduate - <a href='https://gazaskygeeks.com/coders-career-accelerator-course/'>Career Accelerator Program</a>
 - ✌ Open to learn new technologies ...
+Portfolio: https://yasserabuamro.netlify.app/
 
 <br />
 
